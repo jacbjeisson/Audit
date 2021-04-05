@@ -1,0 +1,6 @@
+{
+  "baseUrl":"https://pabt.vercel.app/",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1000,
+  "viewportHeight": 800
+}

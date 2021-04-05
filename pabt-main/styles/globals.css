@@ -1,0 +1,7 @@
+:root {
+  --primary: #1C70FF;
+}
+
+.brd{
+  border: 1px solid red;
+}
